@@ -11,9 +11,4 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\BrainGames.BLL\BrainGames.BLL.csproj" />
-    <ProjectReference Include="..\BrainGames.DAL\BrainGames.DAL.csproj" />
-  </ItemGroup>
-
 </Project>
